@@ -58,127 +58,76 @@ Maria da Silva de 40 anos cresceu em uma família de baixa renda e sempre teve u
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários: 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 | 
-
-|--------------------|------------------------------------|----------------------------------------| 
-
-|Tutor de pet   | Me cadastrar   | Encontrar campanhas em andamento e serviços por perto           | 
-
-|Futuro tutor de pet   | Me cadastrar   | Encontrar instituições por perto onde possa adotar um pet        | 
-
-|Voluntário     |   Me cadastrar  | Encontrar instituições e grupos de proteção animal que precisem de auxilio  | 
-
-|Doador | Me cadastrar     |  Encontrar instituições, grupos de proteção animal ou tutores de pet que precisem de doação | 
-
-|Tutor de pet   | Ter acesso ao perfil/página das instuições  | Obter informações e/ou buscar ou agendar um serviço e, entrar em contato com as mesmas          | 
-
-|Futuro tutor de pet   | Ter acesso ao perfil/página das instituições   | Obter informações sobre as instituições e os pets disponíveis para adoção e consegir contato com elas       | 
-
-|Voluntário     |   Ter acesso ao perfil/página das instituições  | Obter informações de contato das instituições e grupos que precisam de apoio e meios de entrar em contato com elas  | 
-
-|Doador | Ter acesso ao perfil/página das instituições e de usuários     |  Obter informações básicas acerca das instituições ou tutores que precisam de doação e meios de contata-los | 
-
-|Lideres de Ongs e grupos protetores     | Cadastrar minha instituição ou grupo         | Linkar dados de contato, redes sociais e endereçar o local de atuação     | 
-
-|Lideres de Ongs e grupos protetores     | Editar minha página/aba        | Divulgar ações e campanhas de doação, adoção, resgaste, saúde e bem-estar animal. Além de animais disponíveis para adoção e vagas para voluntariado     | 
-
-|Lideres de Ongs e grupos protetores       | Ter acesso a dados básicos e de contato de outras instituições e empresas         |Estabelecer parcerias e receber doações | 
-
-|Administradores de petshops e empresas pet      | Cadastrar minha empresa               | Linkar dados de contato, redes sociais e enedereçar o local de atuação | 
-
-|Administradores de petshops e empresas pet      | Editar minha página/aba               | Divulgar serviços, promoções e campanhas sociais oferecidas com suas respectivas datas e horários |
-
-|Administradores de petshops e empresas pet      | Ter acesso a dados básicos e de contato de outras instituições e empresas       | Oferecer parcerias e campanhas de divulgação e colaboração mutua |
-
-|Donos de clínicas veterinárias      | Cadastrar minha empresa               | Linkar dados de contato, redes sociais e enedereçar o local de atuação | 
-
-|Donos de clínicas veterinárias      | Editar minha página/aba               | Divulgar os serviços oferecidos, com suas datas valores e horários  | 
-
-|Donos de clínicas veterinárias      | Ter acesso a dados básicos e de contato de outras instituições e empresas       | Oferecer parcerias e campanhas de divulgação e colaboração mutua |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Tutor de pet        | Me cadastrar           | Encontrar campanhas em andamento e serviços por perto |
+|Futuro tutor de pet       | Me cadastrar                 | Encontrar instituições por perto onde possa adotar um pet |
+|Voluntário  | Me cadastrar           | Encontrar instituições e grupos de proteção animal que precisem de auxilio               |
+|Doador       | Me cadastrar                 | Encontrar instituições, grupos de proteção animal ou tutores de pet que precisem de doação |
+|Tutor de pet  | Ter acesso ao perfil/página das instuições           | Obter informações e/ou buscar ou agendar um serviço e, entrar em contato com as mesmas|
+|Futuro tutor de pet       | Ter acesso ao perfil/página das instuições                 | Obter informações sobre as instituições e os pets disponíveis para adoção e consegir contato com elas |
+|Voluntário  | Ter acesso ao perfil/página das instuições           | Obter informações de contato das instituições e grupos que precisam de apoio e meios de entrar em contato com elas               |
+|Doador       | Ter acesso ao perfil/página das instuições e de tutores de pet                 | Obter informações básicas acerca das instituições ou tutores que precisam de doação e meios de contata-los|
+|Lideres de Ongs e grupos protetores  | Cadastrar minha instituição ou grupo           | Linkar dados de contato, redes sociais e endereçar o local de atuação               |
+|Lideres de Ongs e grupos protetores       | Editar minha página/aba                 | Divulgar ações e campanhas de doação, adoção, resgaste, saúde e bem-estar animal. Além de animais disponíveis para adoção e vagas para voluntariado |
+|Lideres de Ongs e grupos protetores  | Ter acesso a dados básicos e de contato de outras instituições e empresas           | Estabelecer parcerias e receber doações               |
+|Administradores de petshops e empresas pet       | Cadastrar minha empresa                 | Linkar dados de contato, redes sociais e endereçar o local de atuação |
+|Administradores de petshops e empresas pet  | Editar minha página/aba           | Divulgar serviços, promoções e campanhas sociais oferecidas com suas respectivas datas e horários               |
+|Administradores de petshops e empresas pet       | Ter acesso a dados básicos e de contato de outras instituições e empresas                 | Ter acesso a dados básicos e de contato de outras instituições e empresas       | Oferecer parcerias e campanhas de divulgação e colaboração mutua |
+|Donos de clínicas veterinárias       | Clinica                 | Linkar dados de contato, redes sociais e endereçar o local de atuação |
+|Donos de clínicas veterinárias  | Editar minha página/aba           | Divulgar os serviços oferecidos, com suas datas valores e horários               |
+|Donos de clínicas veterinárias       | Ter acesso a dados básicos e de contato de outras instituições e empresas                 | Ter acesso a dados básicos e de contato de outras instituições e empresas       | Oferecer parcerias e campanhas de divulgação e colaboração mutua |
 
 
-
-## Requisitos 
+## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais 
+### Requisitos Funcionais
 
-  
-
-|ID    | Descrição do Requisito  | Prioridade | Responsável | 
-
-|------|-----------------------------------------|----| ----| 
-
-|RF-001| Registro De Usuário | ALTA | PROGRAMADOR | 
-
-|RF-002| Perfil De Usuário Comum ou Administrador | ALTA | PROGRAMADOR | 
-
-|RF-003| Modulo de doações | ALTA | PROGRAMADOR | 
-
-|RF-004| Gerenciamento de parceiros | MÉDIA | PROGRAMADOR | 
-
-|RF-005| Busca de serviços e detalhes | ALTA | PROGRAMADOR | 
-
-|RF-006| Notificações | MÉDIA | PROGRAMADOR | 
-
-|RF-007| Avaliações e Comentários dos Serviços | BAIXA | PROGRAMADOR | 
-
-|RF-008| Suporte ao usuário | MÉDIA | PROGRAMADOR | 
-
-|RF-009| Mapa interativo | BAIXA | PROGRAMADOR | 
-
-|RF-010| Agendamentos online | MÉDIA | PROGRAMADOR | 
-
-|RF-011| Fóruns de discussão | BAIXA | PROGRAMADOR | 
-
-|RF-012| Aba educacional com suporte em texto e vídeo | BAIXA | PROGRAMADOR | 
-
-  
-
-### Requisitos não Funcionais 
-
-  
-
-|ID     | Descrição do Requisito  |Prioridade | 
-
-|-------|-------------------------|----| 
-
-|RNF-001| Responsividade para diversos dispositivos móveis | ALTA |  
-
-|RNF-002| Possibilidade de trabalhar integradamente a outro sistema |  ALTA |  
-
-|RNF-003| Acessibilidade | ALTA |             
-
-|RNF-004| Segurança de dados | ALTA | 
-
-|RNF-005| Deve Realizar backups regulares | MÉDIA | 
-
-|RNF-006| Deve permitir que usuarios possam compartilhar informações nas redes sociais | BAIXA | 
-
-|RNF-007| Deve permitir que usuario escolha sua localização | MÉDIA | 
-
-|RNF-007| Suporte a incremetos | MÉDIA | 
-
-|RNF-007| Robustez | MÉDIA | 
-
-|RNF-007| Tempo máximo de resposta de 5s | MÉDIA | 
-
-|RNF-007| Permitir que o usuário faça a customização de seu perfil | MÉDIA | 
-
-   
-
-## Restrições 
-
-O projeto está restrito pelos itens apresentados na tabela a seguir. 
+|ID    | Descrição do Requisito  | Prioridade | Responsável |
+|------|-----------------------------------------|----| ----|
+|RF-001| Registro De Usuário | ALTA | PROGRAMADOR |
+|RF-002| Perfil De Usuário Comum ou Administrador   | ALTA | PROGRAMADOR |
+|RF-003| Modulo de doações | ALTA | PROGRAMADOR |
+|RF-004| Gerenciamento de parceiros   | MÉDIA | PROGRAMADOR|
+|RF-005| Busca de serviços e detalhes | ALTA | PROGRAMADOR |
+|RF-006| Notificações   | MÉDIA | PROGRAMADOR |
+|RF-007| Avaliações e Comentários dos Serviços | BAIXA | PROGRAMADOR |
+|RF-008| Suporte ao usuário   | MÉDIA | PROGRAMADOR |
+|RF-009| Mapa interativo | BAIXA | PROGRAMADOR |
+|RF-010| Agendamentos online   | MÉDIA | PROGRAMADOR |
+|RF-011| Fóruns de discussão | BAIXA | PROGRAMADOR |
+|RF-012| Aba educacional com suporte em texto e vídeo   | BAIXA | PROGRAMADOR |
 
 
-|ID| Restrição                                             | 
+### Requisitos não Funcionais
 
-|--|-------------------------------------------------------| 
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  MÉDIA |
+|RNF-003| Acessibilidade | MÉDIA | 
+|RNF-004| Segurança de dados |  ALTA | 
+|RNF-005| O sistema deve deve realizar backups regulares | MÉDIA | 
+|RNF-006| Deve permitir que o usuário faça a customização de seu perfil |  BAIXA | 
+|RNF-007| O sistema deve eve permitir que usuarios possam compartilhar informações nas redes sociais | BAIXA | 
+|RNF-008| Deve permitir que usuario escolha sua localização |  ALTA | 
+|RNF-009| O sistema deve ter suporte a incremetos | ALTA | 
+|RNF-010| O sistema deve ter robustez | MÉDIA | 
+|RNF-011| O sistema deve ter a possibilidade de trabalhar integradamente a outro sistema |  ALTA | 
 
-|01| O projeto deverá ser entregue até o final do semestre | 
 
-|02| Não pode ser desenvolvido um módulo de backend        | 
 
- 
+
+## Restrições
+
+O projeto está restrito pelos itens apresentados na tabela a seguir.
+
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre |
+|02| Não pode ser desenvolvido um módulo de backend        |
+
+
+
