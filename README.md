@@ -35,6 +35,6 @@ Visando tentar mudar tal cenário, nosso projeto LAR ANIMAL tem como objetivo cr
 ## Documentação
 
 <ol>
-<li><a href="docs/Documentação de contexto"> Documentação de Contexto</a></li>
-<li><a href="docs/Especificação do projeto"> Especificação do Projeto</a></li>
+<li><a href="docs.md/Documentação de contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs.md/Especificação do projeto.md"> Especificação do Projeto</a></li>
 </ol>
